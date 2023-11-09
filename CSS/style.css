@@ -1,1 +1,49 @@
 
+/* Style the images */
+.rounded-circle {
+    width: 100%; /* Set width to 100% to maintain aspect ratio */
+    border-radius: 70%; /* Create a round shape */
+    margin-top: 50px;
+}
+
+footer {
+    background-color: black;
+    padding: 20px;
+    width: 100%;
+    text-align: center;
+    position: relative; /* Change position to relative */
+    clear: both; /* Add clear property */
+    margin-top : 50px;
+}
+/* Style the card */
+.card {
+    border: none;
+}
+
+
+/* Center the card title */
+.card-title {
+    text-align: center;
+}
+
+/* Center the card text */
+.card-text {
+    text-align: center;
+}
+
+.first-song-title {
+    margin-top: 20px; 
+  }
+
+
+/* Add a margin to separate the images and text */
+.text-content{
+    margin-left: 0%; 
+    text-align: center; /* Center the text horizontally */
+}
+
+.resized-pic {
+    width: 60%;
+    height: auto;
+}
+
